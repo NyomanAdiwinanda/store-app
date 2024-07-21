@@ -72,7 +72,7 @@ export default function ProductList() {
 		} else {
 			fetchData();
 		}
-	}, [itemsPerPage, sortBy, debouncedPriceRange, currentPage, search]);
+	}, [itemsPerPage, sortBy, debouncedPriceRange, currentPage]);
 
 	const handleItemsPerPageSelect = e => {
 		setCurrentPage(1);
