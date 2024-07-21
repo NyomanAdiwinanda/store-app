@@ -1,0 +1,16 @@
+#breadcrumb {
+	display: flex;
+	align-items: center;
+	margin-left: 70px;
+	margin-top: 30px;
+}
+
+#breadcrumb a {
+	font-family: gotham-400;
+	text-decoration: none;
+	color: #696969;
+}
+
+#breadcrumb .icon {
+	margin: 0 10px;
+}

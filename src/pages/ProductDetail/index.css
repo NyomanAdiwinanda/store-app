@@ -1,0 +1,147 @@
+.product-title {
+	font-family: "gotham-600";
+	color: #696969;
+}
+
+.product-subtitle {
+	font-family: "gotham-500";
+	color: #696969;
+}
+
+.product-price {
+	font-family: "gotham-500";
+	color: #eb3f36;
+}
+
+.star-rating {
+	display: flex;
+	align-items: center;
+}
+
+.star-rating-card {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.product-description {
+	margin-top: 20px;
+	font-family: "gotham-300";
+	color: #696969;
+}
+
+.image-thumbnails .thumbnail-container {
+	cursor: pointer;
+	border: 1px solid #ddd;
+	padding: 2px;
+}
+
+.thumbnail-container img {
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+}
+
+.button-cart {
+	margin-left: 10px;
+}
+
+.button-love {
+	margin-left: 10px;
+	border: none;
+	background-color: #f5f5f5;
+	color: #eb3f36;
+}
+
+.text-tersedia {
+	font-family: "gotham-300";
+	color: #6f8eff;
+	font-size: 12px;
+}
+
+.price-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.tabs-container {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.tab {
+	font-family: "gotham-500";
+	color: #696969;
+	margin: 0 15px;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.tab.active {
+	color: #eb3f36;
+	border-bottom: 3px solid #eb3f36;
+}
+
+.tab-content {
+	text-align: center;
+}
+
+.section-separator {
+	width: 50%;
+	margin: 0 auto;
+	border: none;
+	border-top: 2px solid #eb3f36;
+}
+
+.clickable-card {
+	cursor: pointer;
+}
+
+.product-text {
+	text-align: center;
+}
+
+.empty-result {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.shadow-sm {
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.same-height {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
+
+.same-height-body {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.same-height-img {
+	object-fit: cover;
+	height: 400px;
+}
+
+.recommendation-container {
+	margin-top: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.recommendation-separator {
+	width: 240px;
+	border-bottom: 4px solid #eb3f36;
+	margin-top: -4px;
+	margin-bottom: 20px;
+}

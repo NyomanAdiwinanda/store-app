@@ -1,0 +1,75 @@
+.filter-container {
+	min-width: 340px;
+}
+
+.filter-header {
+	font-size: 20px;
+	font-family: "gotham-500";
+	color: #696969;
+	margin-bottom: 16px;
+}
+
+.filter-subheader {
+	font-size: 20px;
+	font-family: "gotham-500";
+	color: #696969;
+	margin-bottom: 8px;
+}
+
+.filter-price {
+	justify-content: space-between;
+}
+
+.price-range-text {
+	font-family: "gotham-300";
+	text-align: center;
+	margin: 10px 0px;
+}
+
+.price-box {
+	font-size: 16px;
+	background-color: #f2f2f2;
+	padding: 6px 28px 6px 4px;
+}
+
+.price-slider .rc-slider-track {
+	background-color: #ff5a5f;
+}
+
+.price-slider .rc-slider-handle {
+	border: 7px solid #ff5a5f;
+}
+
+.filter-checkbox {
+	font-size: 16px;
+}
+
+.accordion-button {
+	background-color: #f5f5f5bf !important;
+}
+
+.accordion-button:not(.collapsed) {
+	color: #000;
+	background-color: #f5f5f5bf !important;
+}
+
+.accordion-button:focus {
+	box-shadow: none;
+}
+
+.accordion-item,
+.accordion-button,
+.accordion-body,
+.card,
+.card-body {
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.accordion-header {
+	border-bottom: 1px solid #d9d9d9bf;
+}
+
+.accordion-collapse {
+	border: none !important;
+}
