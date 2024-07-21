@@ -20,3 +20,7 @@ STORE-APP
 - rc-slider: Komponen slider untuk React, digunakan untuk membuat filter slider.
 - react-icons: Pustaka ikon untuk React yang menyediakan berbagai ikon yang dapat digunakan di seluruh aplikasi.
 - react-router-dom: Pustaka untuk routing di aplikasi React, memungkinkan navigasi antar halaman.
+
+## Firebase Link for Demo
+
+https://store-app-9bfc9.web.app/
