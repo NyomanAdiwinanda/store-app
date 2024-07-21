@@ -21,6 +21,14 @@ STORE-APP
 - react-icons: Pustaka ikon untuk React yang menyediakan berbagai ikon yang dapat digunakan di seluruh aplikasi.
 - react-router-dom: Pustaka untuk routing di aplikasi React, memungkinkan navigasi antar halaman.
 
-## Firebase Link for Demo
+### Catatan
+
+Aplikasi web ini hanya support di desktop view
+
+## App Video Demo
+
+https://www.loom.com/share/93bfd2d1f48f47d89fe566b4c0342e5b
+
+## Firebase App Link
 
 https://store-app-9bfc9.web.app/
